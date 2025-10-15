@@ -1,0 +1,1 @@
+import React from 'react';\nexport default function Home() {\n  return (\n    <main style={{padding:'2rem', fontFamily:'Arial, sans-serif'}}>\n      <h1>Neutralex Project</h1>\n      <p>This site contains the Neutralex landing page component in this repository.</p>\n    </main>\n  );\n}\n
